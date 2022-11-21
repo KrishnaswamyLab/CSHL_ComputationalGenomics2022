@@ -1,6 +1,6 @@
 # Cold Spring Harbor Course on Computational Genomics 
 ### November 30 - December 7 2022
-Link to [Course Website](https://meetings.cshl.edu/archivescourse.aspx?course=C-ECG&year=22)
+Link to [CSHL Course Website](https://meetings.cshl.edu/archivescourse.aspx?course=C-ECG&year=22)
 
 <u>Precourse Recommendations:</u> <br />
 The course workshops will use Python, and some practice beforehand is strongly recommended. For those without Python experience at this point, I would recommend purchasing and going through the [Codecademy Python 3 Tutorial](https://www.codecademy.com/learn/learn-python-3) (focus on Sections 1-6) and the [Data Analysis with Pandas Tutorial](https://www.codecademy.com/learn/data-processing-pandas). These two courses will provide a sufficient background for the course.<br>
