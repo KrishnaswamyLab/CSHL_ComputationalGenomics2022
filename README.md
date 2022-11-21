@@ -1,1 +1,1 @@
-# CSHL_ComputationalGenomics2022
+# Cold Spring Harbor Course on Computational Genomics November 30 - December 7 2022
