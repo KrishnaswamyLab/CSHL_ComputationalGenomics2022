@@ -21,7 +21,7 @@ A full list of pre-course activites can be found at our lab [website](https://ww
 |                      |   |                                          |
 |----------------------|---|------------------------------------------|
 |10:30       |#slides_link   |Single-cell Analysis II-- MAGIC/ Pseudotime and Trajectory Net|
-|11:00      |#colab_link    |<b>Workshop</b> Single-cell analysis II|
+|11:00      |[Colab](https://colab.research.google.com/drive/1IRweHGL2OgJ9sa9IZtqBcrGf0eqbbonf?usp=sharing) [Answers](https://colab.research.google.com/drive/1DmWAHz-xP4PcRvTlIQuoXYrXJG1VQ8Ln?usp=sharing)    |<b>Workshop</b> Single-cell analysis II|
 
 **Monday-- 5 December 2022**
 
