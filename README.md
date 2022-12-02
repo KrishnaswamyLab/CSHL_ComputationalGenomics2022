@@ -2,11 +2,13 @@
 ### November 30 - December 7 2022
 Link to [CSHL Course Website](https://meetings.cshl.edu/archivescourse.aspx?course=C-ECG&year=22)
 
-<u>Precourse Recommendations:</u> <br />
+**<u>Precourse Recommendations:</u> <br />**
 The course workshops will use Python, and some practice beforehand is strongly recommended. For those without Python experience at this point, I would recommend purchasing and going through the [Codecademy Python 3 Tutorial](https://www.codecademy.com/learn/learn-python-3) (focus on Sections 1-6) and the [Data Analysis with Pandas Tutorial](https://www.codecademy.com/learn/data-processing-pandas). These two courses will provide a sufficient background for the course.<br>
+
 I also suggest you get some exposure to some of the mathematical concepts we will teach during the workshop. A great place to start is the following review article from our lab: [Manifold learning-based methods for analyzing single-cell RNA-sequencing data](https://doi.org/10.1016/j.coisb.2017.12.008).<br>
 A full list of pre-course activites can be found at our lab [website](https://www.krishnaswamylab.org/workshop-materials#pre-course).
 
+**Single-cell preprocessing**
 The data we will be working with is already pre-processed. To learn how to preprocess scRNA-seq data from publicly available data, see this [Google Colab](https://drive.google.com/drive/folders/1jbyEQEIHXUK8GXCBvGoyZnHLQvsZV7c7?usp=sharing). To learn how to preprocess your scRNA data, see this [Google Colab](https://colab.research.google.com/drive/12vi9QyJ27OEqPvqVegSxgUvbYqnKm0zk?usp=sharing).
 
 
