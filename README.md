@@ -8,6 +8,8 @@ I also suggest you get some exposure to some of the mathematical concepts we wil
 A full list of pre-course activites can be found at our lab [website](https://www.krishnaswamylab.org/workshop-materials#pre-course).
 
 The data we will be working with is already pre-processed. To learn how to preprocess scRNA-seq data from publicly available data, see this [Google Colab](https://drive.google.com/drive/folders/1jbyEQEIHXUK8GXCBvGoyZnHLQvsZV7c7?usp=sharing). To learn how to preprocess your scRNA data, see this [Google Colab](https://colab.research.google.com/drive/12vi9QyJ27OEqPvqVegSxgUvbYqnKm0zk?usp=sharing).
+
+
 ---
 
 **Saturday-- 3 December 2022**
