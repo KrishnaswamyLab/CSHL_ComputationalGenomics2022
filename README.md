@@ -19,7 +19,7 @@ The data we will be working with is already pre-processed. To learn how to prepr
 |                      |   |                                          |
 |----------------------|---|------------------------------------------|
 |9:00       |[[Slides](https://drive.google.com/file/d/1Xc6ZnKXvLcFq7Y0HU6jwlQs7x9qlFW0q/view?usp=sharing)]   |Single-cell Analysis I-- PHATE/Multiscale PHATE/MELD|
-|11:00      |[[Colab](https://colab.research.google.com/drive/11hi6Ns0DoCiYCJR24NzQmozCPmktrIyH?usp=sharing)]    |<b>Workshop</b> Single-cell analysis I|
+|11:00      |[[Colab](https://colab.research.google.com/drive/11hi6Ns0DoCiYCJR24NzQmozCPmktrIyH?usp=sharing)] [[Answers](https://colab.research.google.com/drive/15tYnh2d_ldAh1dAzQG95ZxIaenLGVVjw?usp=sharing)]    |<b>Workshop</b> Single-cell analysis I|
 
 **Sunday-- 4 December 2022**
 
