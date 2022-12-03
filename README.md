@@ -11,6 +11,11 @@ A full list of pre-course activites can be found at our lab [website](https://ww
 **Single-cell preprocessing:**  
 The data we will be working with is already pre-processed. To learn how to preprocess scRNA-seq data from publicly available data, see this [Google Colab](https://drive.google.com/drive/folders/1jbyEQEIHXUK8GXCBvGoyZnHLQvsZV7c7?usp=sharing). To learn how to preprocess your scRNA data, see this [Google Colab](https://colab.research.google.com/drive/12vi9QyJ27OEqPvqVegSxgUvbYqnKm0zk?usp=sharing).
 
+**Course data and Colabs**
+In this course, we will be using several publicly available and simulated single-cell datasets. All our code will be available on Google Colab. The full drive with data and Colab coding notebooks is accessible [here](https://drive.google.com/drive/folders/1jbyEQEIHXUK8GXCBvGoyZnHLQvsZV7c7?usp=sharing), and the hyperlinks in the schedule below correspond to the slides and code for each lecture.
+
+If you are interested in using Google Colab more generally for your work, see guides in the [introduction notebook](https://colab.research.google.com/) and [FAQ](https://research.google.com/colaboratory/faq.html).
+
 
 ---
 
