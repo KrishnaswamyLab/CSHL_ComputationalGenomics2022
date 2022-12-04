@@ -28,7 +28,7 @@ The data we will be working with is already pre-processed. To learn how to prepr
 
 |                      |   |                                          |
 |----------------------|---|------------------------------------------|
-|10:30       |#slides_link   |Single-cell Analysis II-- MAGIC/ Pseudotime and Trajectory Net|
+|10:30       |[[Slides](https://drive.google.com/file/d/1SbsgCupxazdSOxNLEbozpP3KMlt7CHdC/view?usp=sharing)]   |Single-cell Analysis II-- MAGIC/ Pseudotime and Trajectory Net|
 |11:00       |[[Colab](https://colab.research.google.com/drive/1LEUDckJb18MxYKnQ8_6QeYPuzKmwj6Be?usp=sharing)] [[Answers](https://colab.research.google.com/drive/1JcqzvTGa5wVh1VWFx6oTzvMAxTZmKqIU?usp=sharing)]    |<b>Workshop</b> Single-cell analysis II|
 
 **Monday-- 5 December 2022**
